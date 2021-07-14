@@ -238,6 +238,11 @@ Helical Insight Enterprise Edition comes with many addon features like self-serv
 
 Try Now [Download Free Trial.](http://www.helicalinsight.com/register/)
 
+## TODO:
+- Provide a fully automated installation using the guide: https://helicalinsight.github.io/helicalinsight/#/quickstart
+- Create a docker image
+- Gitpod fully functional configuration
+
 ## License
 
 Copyright (c) Helical Insight. All rights reserved.
